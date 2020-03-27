@@ -1,2 +1,2 @@
-# project2
-UW Bootcamp group project2
+# Project2
+Project 2
